@@ -1,2 +1,2 @@
-# Data-Analatics-project
+# Data-Analytics-project
 Data Analyst hub  
